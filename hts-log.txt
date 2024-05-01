@@ -1,0 +1,670 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 01 May 2024 11:03:44 at https://michters.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://michters.com/ -O1 "C:\My Web Sites\wp-1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:05:18	Error: 	"Not Found" (404) at link https://michters.com/favicon.png (from https://michters.com/)
+11:06:45	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://michters.com/)
+11:08:55	Warning: 	Link https://michters.com/shop/ not scanned (follow robots meta tag)
+11:10:00	Error: 	"Error when decompressing" (-1) at link https://michters.com/accolades (from https://michters.com/)
+11:10:00	Warning: 	Moved Permanently for https://michters.com/our-process/
+11:10:00	Warning: 	File has moved from https://michters.com/our-process/ to https://michters.com/production/
+11:10:00	Warning: 	Moved Permanently for https://michters.com/whiskey/us1-american-whiskey/
+11:10:00	Warning: 	File has moved from https://michters.com/whiskey/us1-american-whiskey/ to https://michters.com/us1-american-whiskey/
+11:10:00	Warning: 	Moved Permanently for https://michters.com/whiskey/us1-kentucky-straight-rye/
+11:10:00	Warning: 	File has moved from https://michters.com/whiskey/us1-kentucky-straight-rye/ to https://michters.com/us1-kentucky-straight-rye/
+11:10:00	Warning: 	Moved Permanently for https://michters.com/whiskey/sour-mash/
+11:10:00	Warning: 	File has moved from https://michters.com/whiskey/sour-mash/ to https://michters.com/sour-mash/
+11:10:04	Warning: 	Moved Permanently for https://michters.com/whiskey/kentucky-straight-bourbon/
+11:10:04	Warning: 	File has moved from https://michters.com/whiskey/kentucky-straight-bourbon/ to https://michters.com/kentucky-straight-bourbon/
+11:10:09	Warning: 	Moved Permanently for https://michters.com/privacy/
+11:10:09	Warning: 	File has moved from https://michters.com/privacy/ to https://michters.com/privacy-policy/
+11:10:11	Error: 	"Bad Request" (400) at link https://michters.com/wp-admin/admin-ajax.php (from https://michters.com/)
+11:10:11	Error: 	"Bad Request" (400) at link https://michters.com/wp-admin/admin-ajax.php?action=rest-nonce (from https://michters.com/)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/plugins/woocommerce-square/vendor/skyverge/wc-plugin-framework/woocommerce/payment-gateway/assets/images/card-cc-plain.svg (from https://michters.com/wp-content/plugins/woocommerce-square/assets/css/frontend/wc-square-cart-checkout-blocks.min.css?ver=4.6.0)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/plugins/woocommerce-square/vendor/skyverge/wc-plugin-framework/woocommerce/payment-gateway/assets/images/card-visa.svg (from https://michters.com/wp-content/plugins/woocommerce-square/assets/css/frontend/wc-square-cart-checkout-blocks.min.css?ver=4.6.0)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/plugins/woocommerce-square/vendor/skyverge/wc-plugin-framework/woocommerce/payment-gateway/assets/images/card-mastercard.svg (from https://michters.com/wp-content/plugins/woocommerce-square/assets/css/frontend/wc-square-cart-checkout-blocks.min.css?ver=4.6.0)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/plugins/woocommerce-square/vendor/skyverge/wc-plugin-framework/woocommerce/payment-gateway/assets/images/card-amex.svg (from https://michters.com/wp-content/plugins/woocommerce-square/assets/css/frontend/wc-square-cart-checkout-blocks.min.css?ver=4.6.0)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/plugins/woocommerce-square/vendor/skyverge/wc-plugin-framework/woocommerce/payment-gateway/assets/images/card-dinersclub.svg (from https://michters.com/wp-content/plugins/woocommerce-square/assets/css/frontend/wc-square-cart-checkout-blocks.min.css?ver=4.6.0)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/plugins/woocommerce-square/vendor/skyverge/wc-plugin-framework/woocommerce/payment-gateway/assets/images/card-maestro.svg (from https://michters.com/wp-content/plugins/woocommerce-square/assets/css/frontend/wc-square-cart-checkout-blocks.min.css?ver=4.6.0)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/plugins/woocommerce-square/vendor/skyverge/wc-plugin-framework/woocommerce/payment-gateway/assets/images/card-jcb.svg (from https://michters.com/wp-content/plugins/woocommerce-square/assets/css/frontend/wc-square-cart-checkout-blocks.min.css?ver=4.6.0)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/plugins/woocommerce-square/vendor/skyverge/wc-plugin-framework/woocommerce/payment-gateway/assets/images/card-discover.svg (from https://michters.com/wp-content/plugins/woocommerce-square/assets/css/frontend/wc-square-cart-checkout-blocks.min.css?ver=4.6.0)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/plugins/woocommerce-square/vendor/skyverge/wc-plugin-framework/woocommerce/payment-gateway/assets/images/card-cc-invalid.svg (from https://michters.com/wp-content/plugins/woocommerce-square/assets/css/frontend/wc-square-cart-checkout-blocks.min.css?ver=4.6.0)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/fonts/glyphicons-halflings-regular.eot (from https://michters.com/wp-content/themes/waxom/css/bootstrap.min.css?ver=6.4.3)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/fonts/glyphicons-halflings-regular.eot? (from https://michters.com/wp-content/themes/waxom/css/bootstrap.min.css?ver=6.4.3)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/fonts/glyphicons-halflings-regular.woff (from https://michters.com/wp-content/themes/waxom/css/bootstrap.min.css?ver=6.4.3)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/fonts/glyphicons-halflings-regular.ttf (from https://michters.com/wp-content/themes/waxom/css/bootstrap.min.css?ver=6.4.3)
+11:10:12	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/fonts/glyphicons-halflings-regular.svg (from https://michters.com/wp-content/themes/waxom/css/bootstrap.min.css?ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/pattern-white.png (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/pattern-black.png (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/slide4.jpg (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/list-style.png (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/i2.jpg (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/features-iphone.png (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/i6.jpg (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/plus.png (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/m-slide1.jpg (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/m-slide2.jpg (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/m-slide3.jpg (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/m-slide4.jpg (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/b-slide1.jpg (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/b-slide2.jpg (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/b-slide3.jpg (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/b-slide4.jpg (from https://michters.com/wp-content/themes/waxom/style.css?v=1714575827&ver=6.4.3)
+11:10:13	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/css/scripts/owl.video.play.png (from https://michters.com/wp-content/themes/waxom/css/scripts/owl.carousel.css?ver=6.4.3)
+11:10:23	Error: 	"Not Found" (404) at link https://michters.com/POST (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+11:10:23	Error: 	"Not Found" (404) at link https://michters.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+11:10:23	Error: 	"Not Found" (404) at link https://michters.com/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+11:10:23	Error: 	"Not Found" (404) at link https://michters.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+11:10:23	Error: 	"Not Found" (404) at link michters.wpengine.com/wp-content/uploads/2016/04/border.png (from https://michters.com/wp-content/themes/waxom/css/style_custom.css?v=2)
+11:10:23	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/img/bulding-hours.png (from https://michters.com/wp-content/themes/waxom/css/style_custom.css?v=2)
+11:10:39	Warning: 	Moved Permanently for https://michters.com/?p=5317
+11:10:39	Warning: 	File has moved from https://michters.com/?p=5317 to https://michters.com/fortnelson/
+11:10:39	Error: 	"Error when decompressing" (-1) at link https://michters.com/shop (from https://michters.com/fortnelson/)
+11:11:14	Error: 	"Not Found" (404) at link https://michters.com/whiskeys/?lang=zh-hant (from https://michters.com/whiskeys/)
+11:11:14	Error: 	"Not Found" (404) at link https://michters.com/whiskeys/?lang=zh-hans (from https://michters.com/whiskeys/)
+11:11:14	Error: 	"Not Found" (404) at link https://michters.com/whiskeys/?lang=ja (from https://michters.com/whiskeys/)
+11:11:14	Warning: 	Moved Permanently for https://michters.com/?p=3207
+11:11:14	Warning: 	File has moved from https://michters.com/?p=3207 to https://michters.com/whiskeys/
+11:11:14	Warning: 	Moved Permanently for https://michters.com/whiskey/10-year-kentucky-straight-rye/
+11:11:14	Warning: 	File has moved from https://michters.com/whiskey/10-year-kentucky-straight-rye/ to https://michters.com/10-year-kentucky-straight-rye/
+11:11:14	Warning: 	Moved Permanently for https://michters.com/whiskey/10-year-kentucky-straight-bourbon/
+11:11:14	Warning: 	File has moved from https://michters.com/whiskey/10-year-kentucky-straight-bourbon/ to https://michters.com/10-year-kentucky-straight-bourbon/
+11:11:14	Warning: 	Moved Permanently for https://michters.com/whiskey/20-year-kentucky-straight-bourbon/
+11:11:14	Warning: 	File has moved from https://michters.com/whiskey/20-year-kentucky-straight-bourbon/ to https://michters.com/20-year-kentucky-straight-bourbon/
+11:11:14	Warning: 	Moved Permanently for https://michters.com/whiskey/25-year-kentucky-straight-rye/
+11:11:14	Warning: 	File has moved from https://michters.com/whiskey/25-year-kentucky-straight-rye/ to https://michters.com/25-year-kentucky-straight-rye/
+11:11:18	Warning: 	Moved Permanently for https://michters.com/whiskey/25-year-kentucky-straight-bourbon/
+11:11:18	Warning: 	File has moved from https://michters.com/whiskey/25-year-kentucky-straight-bourbon/ to https://michters.com/25-year-kentucky-straight-bourbon/
+11:11:30	Warning: 	Moved Permanently for https://michters.com/whiskey/us1-toasted-barrel-finish-bourbon/
+11:11:30	Warning: 	File has moved from https://michters.com/whiskey/us1-toasted-barrel-finish-bourbon/ to https://michters.com/us1-toasted-barrel-finish-bourbon/
+11:11:30	Warning: 	Moved Permanently for https://michters.com/whiskey/toasted-barrel-finish-rye/
+11:11:30	Warning: 	File has moved from https://michters.com/whiskey/toasted-barrel-finish-rye/ to https://michters.com/toasted-barrel-finish-rye/
+11:11:32	Warning: 	Moved Permanently for https://michters.com/whiskey/us-1-barrel-strength-rye/
+11:11:32	Warning: 	File has moved from https://michters.com/whiskey/us-1-barrel-strength-rye/ to https://michters.com/us-1-barrel-strength-rye/
+11:11:32	Warning: 	Moved Permanently for https://michters.com/whiskey/us-1-limited-release-barrel-strength-bourbon/
+11:11:32	Warning: 	File has moved from https://michters.com/whiskey/us-1-limited-release-barrel-strength-bourbon/ to https://michters.com/us-1-limited-release-barrel-strength-bourbon/
+11:11:37	Warning: 	Moved Permanently for https://michters.com/whiskey/celebration-sour-mash-2022/
+11:11:37	Warning: 	File has moved from https://michters.com/whiskey/celebration-sour-mash-2022/ to https://michters.com/celebration-sour-mash-2022/
+11:11:37	Warning: 	Moved Permanently for https://michters.com/whiskey/celebration-sour-mash/
+11:11:37	Warning: 	File has moved from https://michters.com/whiskey/celebration-sour-mash/ to https://michters.com/celebration-sour-mash-2013/
+11:11:39	Warning: 	Moved Permanently for https://michters.com/whiskey/celebration-sour-mash-2016/
+11:11:39	Warning: 	File has moved from https://michters.com/whiskey/celebration-sour-mash-2016/ to https://michters.com/celebration-sour-mash-2016/
+11:11:40	Warning: 	Moved Permanently for https://michters.com/whiskey/celebration-sour-mash-2019/
+11:11:40	Warning: 	File has moved from https://michters.com/whiskey/celebration-sour-mash-2019/ to https://michters.com/celebration-sour-mash-2019/
+11:12:05	Error: 	"Not Found" (404) at link https://michters.com/whiskey/us-1-toasted-barrel-finish-bourbon/ (from https://michters.com/whiskeys/)
+11:12:05	Warning: 	Moved Permanently for https://michters.com/?p=3678
+11:12:05	Warning: 	File has moved from https://michters.com/?p=3678 to https://michters.com/production/
+11:12:05	Warning: 	Moved Permanently for https://michters.com/?p=3390
+11:12:05	Warning: 	File has moved from https://michters.com/?p=3390 to https://michters.com/accolades/
+11:12:05	Warning: 	Moved Permanently for https://michters.com/?p=4223
+11:12:05	Warning: 	File has moved from https://michters.com/?p=4223 to https://michters.com/shively/
+11:12:05	Error: 	"Error when decompressing" (-1) at link https://michters.com/springfield-farm (from https://michters.com/shively/)
+11:12:06	Warning: 	Moved Permanently for https://michters.com/?p=5562
+11:12:06	Warning: 	File has moved from https://michters.com/?p=5562 to https://michters.com/springfield-farm/
+11:12:12	Warning: 	Moved Permanently for https://michters.com/?p=31145
+11:12:12	Warning: 	File has moved from https://michters.com/?p=31145 to https://michters.com/shop-whiskey/
+11:12:12	Warning: 	Moved Permanently for https://michters.com/whiskey/shop-us1-kentucky-straight-rye/
+11:12:12	Warning: 	File has moved from https://michters.com/whiskey/shop-us1-kentucky-straight-rye/ to https://michters.com/shop-us1-kentucky-straight-rye/
+11:12:21	Warning: 	Moved Permanently for https://michters.com/whiskey/shop-kentucky-straight-bourbon/
+11:12:21	Warning: 	File has moved from https://michters.com/whiskey/shop-kentucky-straight-bourbon/ to https://michters.com/shop-kentucky-straight-bourbon/
+11:12:22	Warning: 	Moved Permanently for https://michters.com/whiskey/shop-us1-american-whiskey/
+11:12:22	Warning: 	File has moved from https://michters.com/whiskey/shop-us1-american-whiskey/ to https://michters.com/shop-us1-american-whiskey/
+11:12:22	Warning: 	Moved Permanently for https://michters.com/whiskey/shop-sour-mash/
+11:12:22	Warning: 	File has moved from https://michters.com/whiskey/shop-sour-mash/ to https://michters.com/shop-sour-mash/
+11:12:22	Warning: 	Moved Permanently for https://michters.com/?p=5478
+11:12:22	Warning: 	File has moved from https://michters.com/?p=5478 to https://michters.com/our-team/
+11:12:25	Warning: 	Moved Permanently for https://michters.com/?p=4209
+11:12:25	Warning: 	File has moved from https://michters.com/?p=4209 to https://michters.com/legacy/
+11:13:21	Warning: 	Moved Permanently for https://michters.com/?p=3211
+11:13:21	Warning: 	File has moved from https://michters.com/?p=3211 to https://michters.com/articles/
+11:14:03	Error: 	"Not Found" (404) at link https://michters.com/contact-us/?lang=zh-hant (from https://michters.com/contact-us/)
+11:14:04	Error: 	"Not Found" (404) at link https://michters.com/contact-us/?lang=zh-hans (from https://michters.com/contact-us/)
+11:14:05	Error: 	"Not Found" (404) at link https://michters.com/contact-us/?lang=ja (from https://michters.com/contact-us/)
+11:14:08	Warning: 	Moved Permanently for https://michters.com/?p=2314
+11:14:08	Warning: 	File has moved from https://michters.com/?p=2314 to https://michters.com/contact-us/
+11:14:36	Warning: 	Moved Permanently for https://michters.com/?p=4947
+11:14:36	Warning: 	File has moved from https://michters.com/?p=4947 to https://michters.com/terms-conditions/
+11:14:41	Warning: 	Moved Permanently for https://michters.com/?p=4756
+11:14:41	Warning: 	File has moved from https://michters.com/?p=4756 to https://michters.com/a-beginners-guide-to-american-whiskies/
+11:14:41	Warning: 	Moved Permanently for https://michters.com/?p=5371
+11:14:41	Warning: 	File has moved from https://michters.com/?p=5371 to https://michters.com/tours/
+11:14:41	Warning: 	Moved Permanently for https://michters.com/?p=5320
+11:14:41	Warning: 	File has moved from https://michters.com/?p=5320 to https://michters.com/thebar/
+11:14:41	Warning: 	Moved Permanently for https://michters.com/?p=5322
+11:14:41	Warning: 	File has moved from https://michters.com/?p=5322 to https://michters.com/location-hours/
+11:15:18	Warning: 	Moved Permanently for https://michters.com/?p=5518
+11:15:18	Warning: 	File has moved from https://michters.com/?p=5518 to https://michters.com/us1-toasted-barrel-finish-sour-mash/
+11:15:35	Warning: 	Moved Permanently for https://michters.com/?p=4739
+11:15:35	Warning: 	File has moved from https://michters.com/?p=4739 to https://michters.com/us-1-limited-release-barrel-strength-bourbon/
+11:15:55	Warning: 	Moved Permanently for https://michters.com/?p=5585
+11:15:55	Warning: 	File has moved from https://michters.com/?p=5585 to https://michters.com/bombergers-declaration/
+11:15:55	Warning: 	Moved Permanently for https://michters.com/?p=5588
+11:15:55	Warning: 	File has moved from https://michters.com/?p=5588 to https://michters.com/shenks-homestead/
+11:15:55	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/css/scripts/ytp-regular.eot (from https://michters.com/wp-content/themes/waxom/css/scripts/YTPlayer.css?ver=6.4.3)
+11:15:55	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/css/scripts/ytp-regular.ttf (from https://michters.com/wp-content/themes/waxom/css/scripts/YTPlayer.css?ver=6.4.3)
+11:15:55	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/css/images/raster.png (from https://michters.com/wp-content/themes/waxom/css/scripts/YTPlayer.css?ver=6.4.3)
+11:15:55	Error: 	"Not Found" (404) at link https://michters.com/wp-content/themes/waxom/css/images/raster@2x.png (from https://michters.com/wp-content/themes/waxom/css/scripts/YTPlayer.css?ver=6.4.3)
+11:15:55	Warning: 	Moved Permanently for https://michters.com/?p=31160
+11:15:55	Warning: 	File has moved from https://michters.com/?p=31160 to https://michters.com/shop-us1-kentucky-straight-rye/
+11:15:55	Error: 	"Error when decompressing" (-1) at link https://michters.com/us1-kentucky-straight-rye (from https://michters.com/shop-us1-kentucky-straight-rye/)
+11:16:12	Warning: 	Moved Permanently for https://michters.com/?p=3502&lang=zh-hant
+11:16:12	Warning: 	File has moved from https://michters.com/?p=3502&lang=zh-hant to https://michters.com/articles?lang=zh-hant
+11:16:13	Error: 	"Not Found" (404) at link https://michters.com/whiskeys?lang=zh-hant (from https://michters.com/articles/?lang=zh-hant)
+11:16:13	Error: 	"Not Found" (404) at link https://michters.com/contact-us?lang=zh-hant (from https://michters.com/articles/?lang=zh-hant)
+11:16:40	Warning: 	Moved Permanently for https://michters.com/?p=3501&lang=zh-hans
+11:16:40	Warning: 	File has moved from https://michters.com/?p=3501&lang=zh-hans to https://michters.com/articles?lang=zh-hans
+11:16:41	Error: 	"Not Found" (404) at link https://michters.com/whiskeys?lang=zh-hans (from https://michters.com/articles/?lang=zh-hans)
+11:16:41	Error: 	"Not Found" (404) at link https://michters.com/contact-us?lang=zh-hans (from https://michters.com/articles/?lang=zh-hans)
+11:17:07	Warning: 	Moved Permanently for https://michters.com/?p=3503&lang=ja
+11:17:07	Warning: 	File has moved from https://michters.com/?p=3503&lang=ja to https://michters.com/articles?lang=ja
+11:17:09	Error: 	"Not Found" (404) at link https://michters.com/whiskeys?lang=ja (from https://michters.com/articles/?lang=ja)
+11:17:09	Error: 	"Not Found" (404) at link https://michters.com/contact-us?lang=ja (from https://michters.com/articles/?lang=ja)
+11:18:41	Warning: 	Moved Permanently for https://michters.com/?p=3403
+11:18:41	Warning: 	File has moved from https://michters.com/?p=3403 to https://michters.com/us1-american-whiskey/
+11:18:41	Error: 	"Error when decompressing" (-1) at link https://michters.com/shop-us1-american-whiskey (from https://michters.com/us1-american-whiskey/)
+11:19:13	Warning: 	Moved Permanently for https://michters.com/?p=3361
+11:19:13	Warning: 	File has moved from https://michters.com/?p=3361 to https://michters.com/us1-kentucky-straight-rye/
+11:19:13	Error: 	"Error when decompressing" (-1) at link https://michters.com/shop-us1-kentucky-straight-rye (from https://michters.com/us1-kentucky-straight-rye/)
+11:19:46	Warning: 	Moved Permanently for https://michters.com/?p=3404
+11:19:46	Warning: 	File has moved from https://michters.com/?p=3404 to https://michters.com/sour-mash/
+11:19:46	Error: 	"Error when decompressing" (-1) at link https://michters.com/shop-sour-mash (from https://michters.com/sour-mash/)
+11:20:20	Warning: 	Moved Permanently for https://michters.com/?p=3405
+11:20:20	Warning: 	File has moved from https://michters.com/?p=3405 to https://michters.com/kentucky-straight-bourbon/
+11:20:20	Error: 	"Error when decompressing" (-1) at link https://michters.com/shop-kentucky-straight-bourbon (from https://michters.com/kentucky-straight-bourbon/)
+11:20:20	Warning: 	Moved Permanently for https://michters.com/?p=5772
+11:20:20	Warning: 	File has moved from https://michters.com/?p=5772 to https://michters.com/privacy-policy/
+11:20:51	Warning: 	Moved Permanently for https://michters.com/?p=3415
+11:20:51	Warning: 	File has moved from https://michters.com/?p=3415 to https://michters.com/10-year-kentucky-straight-rye/
+11:21:23	Warning: 	Moved Permanently for https://michters.com/?p=3416
+11:21:23	Warning: 	File has moved from https://michters.com/?p=3416 to https://michters.com/10-year-kentucky-straight-bourbon/
+11:21:56	Warning: 	Moved Permanently for https://michters.com/?p=3417
+11:21:56	Warning: 	File has moved from https://michters.com/?p=3417 to https://michters.com/20-year-kentucky-straight-bourbon/
+11:22:26	Warning: 	Moved Permanently for https://michters.com/?p=3418
+11:22:26	Warning: 	File has moved from https://michters.com/?p=3418 to https://michters.com/25-year-kentucky-straight-rye/
+11:23:02	Warning: 	Moved Permanently for https://michters.com/?p=3420
+11:23:02	Warning: 	File has moved from https://michters.com/?p=3420 to https://michters.com/25-year-kentucky-straight-bourbon/
+11:23:34	Warning: 	Moved Permanently for https://michters.com/?p=3421
+11:23:34	Warning: 	File has moved from https://michters.com/?p=3421 to https://michters.com/us1-toasted-barrel-finish-bourbon/
+11:23:34	Warning: 	Moved Permanently for https://michters.com/?p=4793
+11:23:34	Warning: 	File has moved from https://michters.com/?p=4793 to https://michters.com/toasted-barrel-finish-rye/
+11:24:10	Warning: 	Moved Permanently for https://michters.com/?p=3424
+11:24:10	Warning: 	File has moved from https://michters.com/?p=3424 to https://michters.com/us-1-barrel-strength-rye/
+11:24:10	Warning: 	Moved Permanently for https://michters.com/?p=29478
+11:24:10	Warning: 	File has moved from https://michters.com/?p=29478 to https://michters.com/celebration-sour-mash-2022/
+11:24:43	Warning: 	Moved Permanently for https://michters.com/?p=3422
+11:24:43	Warning: 	File has moved from https://michters.com/?p=3422 to https://michters.com/celebration-sour-mash-2013/
+11:24:43	Warning: 	Moved Permanently for https://michters.com/?p=4537
+11:24:43	Warning: 	File has moved from https://michters.com/?p=4537 to https://michters.com/celebration-sour-mash-2016/
+11:24:44	Warning: 	Moved Permanently for https://michters.com/?p=5779
+11:24:44	Warning: 	File has moved from https://michters.com/?p=5779 to https://michters.com/celebration-sour-mash-2019/
+11:24:44	Warning: 	Moved Permanently for https://michters.com/?p=31156
+11:24:44	Warning: 	File has moved from https://michters.com/?p=31156 to https://michters.com/shop-kentucky-straight-bourbon/
+11:24:44	Error: 	"Error when decompressing" (-1) at link https://michters.com/kentucky-straight-bourbon (from https://michters.com/shop-kentucky-straight-bourbon/)
+11:24:44	Warning: 	Moved Permanently for https://michters.com/?p=31168
+11:24:44	Warning: 	File has moved from https://michters.com/?p=31168 to https://michters.com/shop-us1-american-whiskey/
+11:24:44	Error: 	"Error when decompressing" (-1) at link https://michters.com/us1-american-whiskey (from https://michters.com/shop-us1-american-whiskey/)
+11:24:44	Warning: 	Moved Permanently for https://michters.com/?p=31164
+11:24:44	Warning: 	File has moved from https://michters.com/?p=31164 to https://michters.com/shop-sour-mash/
+11:24:44	Error: 	"Error when decompressing" (-1) at link https://michters.com/sour-mash (from https://michters.com/shop-sour-mash/)
+11:24:45	Warning: 	Moved Permanently for https://michters.com/?p=3634&lang=zh-hant
+11:24:45	Warning: 	File has moved from https://michters.com/?p=3634&lang=zh-hant to https://michters.com/michters-process/?lang=zh-hant
+11:24:54	Warning: 	Moved Permanently for https://michters.com/?p=3637&lang=zh-hant
+11:24:54	Warning: 	File has moved from https://michters.com/?p=3637&lang=zh-hant to https://michters.com/claritas-est-etiam-processus-dynamicus-qui-sequitur-mutationem/?lang=zh-hant
+11:24:54	Warning: 	Moved Permanently for https://michters.com/?p=3640&lang=zh-hant
+11:24:54	Warning: 	File has moved from https://michters.com/?p=3640&lang=zh-hant to https://michters.com/another-post/?lang=zh-hant
+11:24:55	Warning: 	Moved Permanently for https://michters.com/?p=3643&lang=zh-hant
+11:24:55	Warning: 	File has moved from https://michters.com/?p=3643&lang=zh-hant to https://michters.com/quote-post-format/?lang=zh-hant
+11:24:55	Warning: 	Moved Permanently for https://michters.com/?p=3633&lang=zh-hans
+11:24:55	Warning: 	File has moved from https://michters.com/?p=3633&lang=zh-hans to https://michters.com/michters-process/?lang=zh-hans
+11:25:03	Warning: 	Moved Permanently for https://michters.com/?p=3636&lang=zh-hans
+11:25:03	Warning: 	File has moved from https://michters.com/?p=3636&lang=zh-hans to https://michters.com/claritas-est-etiam-processus-dynamicus-qui-sequitur-mutationem/?lang=zh-hans
+11:25:04	Warning: 	Moved Permanently for https://michters.com/?p=3639&lang=zh-hans
+11:25:04	Warning: 	File has moved from https://michters.com/?p=3639&lang=zh-hans to https://michters.com/another-post/?lang=zh-hans
+11:25:05	Warning: 	Moved Permanently for https://michters.com/?p=3642&lang=zh-hans
+11:25:05	Warning: 	File has moved from https://michters.com/?p=3642&lang=zh-hans to https://michters.com/quote-post-format/?lang=zh-hans
+11:25:05	Warning: 	Moved Permanently for https://michters.com/?p=3635&lang=ja
+11:25:05	Warning: 	File has moved from https://michters.com/?p=3635&lang=ja to https://michters.com/michters-process/?lang=ja
+11:25:14	Warning: 	Moved Permanently for https://michters.com/?p=3638&lang=ja
+11:25:14	Warning: 	File has moved from https://michters.com/?p=3638&lang=ja to https://michters.com/claritas-est-etiam-processus-dynamicus-qui-sequitur-mutationem/?lang=ja
+11:25:15	Warning: 	Moved Permanently for https://michters.com/?p=3641&lang=ja
+11:25:15	Warning: 	File has moved from https://michters.com/?p=3641&lang=ja to https://michters.com/another-post/?lang=ja
+11:25:15	Warning: 	Moved Permanently for https://michters.com/?p=3644&lang=ja
+11:25:15	Warning: 	File has moved from https://michters.com/?p=3644&lang=ja to https://michters.com/quote-post-format/?lang=ja
+11:25:20	Error: 	"Not Found" (404) at link https://michters.com/us1-american-whiskey-2/?lang=zh-hant (from https://michters.com/us1-american-whiskey/?lang=zh-hant)
+11:25:20	Warning: 	Moved Permanently for https://michters.com/?p=3541&lang=zh-hant
+11:25:20	Warning: 	File has moved from https://michters.com/?p=3541&lang=zh-hant to https://michters.com/us1-american-whiskey?lang=zh-hant
+11:25:22	Error: 	"Not Found" (404) at link https://michters.com/us1-american-whiskey-2/?lang=zh-hans (from https://michters.com/us1-american-whiskey/?lang=zh-hans)
+11:25:22	Warning: 	Moved Permanently for https://michters.com/?p=3540&lang=zh-hans
+11:25:22	Warning: 	File has moved from https://michters.com/?p=3540&lang=zh-hans to https://michters.com/us1-american-whiskey?lang=zh-hans
+11:25:23	Error: 	"Not Found" (404) at link https://michters.com/us1-american-whiskey-2/?lang=ja (from https://michters.com/us1-american-whiskey/?lang=ja)
+11:25:23	Warning: 	Moved Permanently for https://michters.com/?p=3542&lang=ja
+11:25:23	Warning: 	File has moved from https://michters.com/?p=3542&lang=ja to https://michters.com/us1-american-whiskey?lang=ja
+11:25:24	Error: 	"Not Found" (404) at link https://michters.com/us1-kentucky-straight-rye-2/?lang=zh-hant (from https://michters.com/us1-kentucky-straight-rye/?lang=zh-hant)
+11:25:25	Warning: 	Moved Permanently for https://michters.com/?p=3532&lang=zh-hant
+11:25:25	Warning: 	File has moved from https://michters.com/?p=3532&lang=zh-hant to https://michters.com/us1-kentucky-straight-rye?lang=zh-hant
+11:25:27	Error: 	"Not Found" (404) at link https://michters.com/us1-kentucky-straight-rye-2/?lang=zh-hans (from https://michters.com/us1-kentucky-straight-rye/?lang=zh-hans)
+11:25:27	Warning: 	Moved Permanently for https://michters.com/?p=3531&lang=zh-hans
+11:25:27	Warning: 	File has moved from https://michters.com/?p=3531&lang=zh-hans to https://michters.com/us1-kentucky-straight-rye?lang=zh-hans
+11:25:29	Error: 	"Not Found" (404) at link https://michters.com/us1-kentucky-straight-rye-2/?lang=ja (from https://michters.com/us1-kentucky-straight-rye/?lang=ja)
+11:25:29	Warning: 	Moved Permanently for https://michters.com/?p=3533&lang=ja
+11:25:29	Warning: 	File has moved from https://michters.com/?p=3533&lang=ja to https://michters.com/us1-kentucky-straight-rye?lang=ja
+11:25:30	Error: 	"Not Found" (404) at link https://michters.com/sour-mash-2/?lang=zh-hant (from https://michters.com/sour-mash/?lang=zh-hant)
+11:25:31	Warning: 	Moved Permanently for https://michters.com/?p=3535&lang=zh-hant
+11:25:31	Warning: 	File has moved from https://michters.com/?p=3535&lang=zh-hant to https://michters.com/sour-mash?lang=zh-hant
+11:25:32	Error: 	"Not Found" (404) at link https://michters.com/sour-mash-2/?lang=zh-hans (from https://michters.com/sour-mash/?lang=zh-hans)
+11:25:32	Warning: 	Moved Permanently for https://michters.com/?p=3534&lang=zh-hans
+11:25:32	Warning: 	File has moved from https://michters.com/?p=3534&lang=zh-hans to https://michters.com/sour-mash?lang=zh-hans
+11:25:34	Error: 	"Not Found" (404) at link https://michters.com/sour-mash-2/?lang=ja (from https://michters.com/sour-mash/?lang=ja)
+11:25:34	Warning: 	Moved Permanently for https://michters.com/?p=3536&lang=ja
+11:25:34	Warning: 	File has moved from https://michters.com/?p=3536&lang=ja to https://michters.com/sour-mash?lang=ja
+11:25:36	Error: 	"Not Found" (404) at link https://michters.com/kentucky-straight-bourbon-2/?lang=zh-hant (from https://michters.com/kentucky-straight-bourbon/?lang=zh-hant)
+11:25:36	Warning: 	Moved Permanently for https://michters.com/?p=3529&lang=zh-hant
+11:25:36	Warning: 	File has moved from https://michters.com/?p=3529&lang=zh-hant to https://michters.com/kentucky-straight-bourbon?lang=zh-hant
+11:25:37	Error: 	"Not Found" (404) at link https://michters.com/kentucky-straight-bourbon-2/?lang=zh-hans (from https://michters.com/kentucky-straight-bourbon/?lang=zh-hans)
+11:25:38	Warning: 	Moved Permanently for https://michters.com/?p=3528&lang=zh-hans
+11:25:38	Warning: 	File has moved from https://michters.com/?p=3528&lang=zh-hans to https://michters.com/kentucky-straight-bourbon?lang=zh-hans
+11:25:39	Error: 	"Not Found" (404) at link https://michters.com/kentucky-straight-bourbon-2/?lang=ja (from https://michters.com/kentucky-straight-bourbon/?lang=ja)
+11:25:39	Warning: 	Moved Permanently for https://michters.com/?p=3530&lang=ja
+11:25:39	Warning: 	File has moved from https://michters.com/?p=3530&lang=ja to https://michters.com/kentucky-straight-bourbon?lang=ja
+11:25:41	Warning: 	Moved Permanently for https://michters.com/?p=3508&lang=zh-hant
+11:25:41	Warning: 	File has moved from https://michters.com/?p=3508&lang=zh-hant to https://michters.com/10-year-kentucky-straight-rye?lang=zh-hant
+11:25:43	Warning: 	Moved Permanently for https://michters.com/?p=3507&lang=zh-hans
+11:25:43	Warning: 	File has moved from https://michters.com/?p=3507&lang=zh-hans to https://michters.com/10-year-kentucky-straight-rye?lang=zh-hans
+11:25:45	Warning: 	Moved Permanently for https://michters.com/?p=3509&lang=ja
+11:25:45	Warning: 	File has moved from https://michters.com/?p=3509&lang=ja to https://michters.com/10-year-kentucky-straight-rye?lang=ja
+11:25:47	Warning: 	Moved Permanently for https://michters.com/?p=3505&lang=zh-hant
+11:25:47	Warning: 	File has moved from https://michters.com/?p=3505&lang=zh-hant to https://michters.com/10-year-kentucky-straight-bourbon?lang=zh-hant
+11:25:49	Warning: 	Moved Permanently for https://michters.com/?p=3504&lang=zh-hans
+11:25:49	Warning: 	File has moved from https://michters.com/?p=3504&lang=zh-hans to https://michters.com/10-year-kentucky-straight-bourbon?lang=zh-hans
+11:25:51	Warning: 	Moved Permanently for https://michters.com/?p=3506&lang=ja
+11:25:51	Warning: 	File has moved from https://michters.com/?p=3506&lang=ja to https://michters.com/10-year-kentucky-straight-bourbon?lang=ja
+11:25:53	Warning: 	Moved Permanently for https://michters.com/?p=3514&lang=zh-hant
+11:25:53	Warning: 	File has moved from https://michters.com/?p=3514&lang=zh-hant to https://michters.com/20-year-kentucky-straight-bourbon?lang=zh-hant
+11:25:55	Warning: 	Moved Permanently for https://michters.com/?p=3513&lang=zh-hans
+11:25:55	Warning: 	File has moved from https://michters.com/?p=3513&lang=zh-hans to https://michters.com/20-year-kentucky-straight-bourbon?lang=zh-hans
+11:25:57	Warning: 	Moved Permanently for https://michters.com/?p=3515&lang=ja
+11:25:57	Warning: 	File has moved from https://michters.com/?p=3515&lang=ja to https://michters.com/20-year-kentucky-straight-bourbon?lang=ja
+11:25:59	Warning: 	Moved Permanently for https://michters.com/?p=3520&lang=zh-hant
+11:25:59	Warning: 	File has moved from https://michters.com/?p=3520&lang=zh-hant to https://michters.com/25-year-kentucky-straight-rye?lang=zh-hant
+11:26:01	Warning: 	Moved Permanently for https://michters.com/?p=3519&lang=zh-hans
+11:26:01	Warning: 	File has moved from https://michters.com/?p=3519&lang=zh-hans to https://michters.com/25-year-kentucky-straight-rye?lang=zh-hans
+11:26:03	Warning: 	Moved Permanently for https://michters.com/?p=3521&lang=ja
+11:26:03	Warning: 	File has moved from https://michters.com/?p=3521&lang=ja to https://michters.com/25-year-kentucky-straight-rye?lang=ja
+11:26:05	Warning: 	Moved Permanently for https://michters.com/?p=3517&lang=zh-hant
+11:26:05	Warning: 	File has moved from https://michters.com/?p=3517&lang=zh-hant to https://michters.com/25-year-kentucky-straight-bourbon?lang=zh-hant
+11:26:06	Warning: 	Moved Permanently for https://michters.com/?p=3516&lang=zh-hans
+11:26:06	Warning: 	File has moved from https://michters.com/?p=3516&lang=zh-hans to https://michters.com/25-year-kentucky-straight-bourbon?lang=zh-hans
+11:26:08	Warning: 	Moved Permanently for https://michters.com/?p=3518&lang=ja
+11:26:08	Warning: 	File has moved from https://michters.com/?p=3518&lang=ja to https://michters.com/25-year-kentucky-straight-bourbon?lang=ja
+11:26:09	Error: 	"Not Found" (404) at link https://michters.com/us1-toasted-barrel-finish-bourbon-2/?lang=zh-hant (from https://michters.com/us1-toasted-barrel-finish-bourbon/?lang=zh-hant)
+11:26:10	Warning: 	Moved Permanently for https://michters.com/?p=3538&lang=zh-hant
+11:26:10	Warning: 	File has moved from https://michters.com/?p=3538&lang=zh-hant to https://michters.com/us1-toasted-barrel-finish-bourbon?lang=zh-hant
+11:26:12	Error: 	"Not Found" (404) at link https://michters.com/us1-toasted-barrel-finish-bourbon-2/?lang=zh-hans (from https://michters.com/us1-toasted-barrel-finish-bourbon/?lang=zh-hans)
+11:26:12	Warning: 	Moved Permanently for https://michters.com/?p=3537&lang=zh-hans
+11:26:12	Warning: 	File has moved from https://michters.com/?p=3537&lang=zh-hans to https://michters.com/us1-toasted-barrel-finish-bourbon?lang=zh-hans
+11:26:13	Error: 	"Not Found" (404) at link https://michters.com/us1-toasted-barrel-finish-bourbon-2/?lang=ja (from https://michters.com/us1-toasted-barrel-finish-bourbon/?lang=ja)
+11:26:13	Warning: 	Moved Permanently for https://michters.com/?p=3539&lang=ja
+11:26:13	Warning: 	File has moved from https://michters.com/?p=3539&lang=ja to https://michters.com/us1-toasted-barrel-finish-bourbon?lang=ja
+11:26:15	Warning: 	Moved Permanently for https://michters.com/?p=3526&lang=zh-hant
+11:26:15	Warning: 	File has moved from https://michters.com/?p=3526&lang=zh-hant to https://michters.com/us-1-barrel-strength-rye?lang=zh-hant
+11:26:17	Warning: 	Moved Permanently for https://michters.com/?p=3525&lang=zh-hans
+11:26:17	Warning: 	File has moved from https://michters.com/?p=3525&lang=zh-hans to https://michters.com/us-1-barrel-strength-rye?lang=zh-hans
+11:26:19	Warning: 	Moved Permanently for https://michters.com/?p=3527&lang=ja
+11:26:19	Warning: 	File has moved from https://michters.com/?p=3527&lang=ja to https://michters.com/us-1-barrel-strength-rye?lang=ja
+11:26:20	Warning: 	Moved Permanently for https://michters.com/?p=3523&lang=zh-hant
+11:26:20	Warning: 	File has moved from https://michters.com/?p=3523&lang=zh-hant to https://michters.com/celebration-sour-mash-2013?lang=zh-hant
+11:26:22	Warning: 	Moved Permanently for https://michters.com/?p=3522&lang=zh-hans
+11:26:22	Warning: 	File has moved from https://michters.com/?p=3522&lang=zh-hans to https://michters.com/celebration-sour-mash-2013?lang=zh-hans
+11:26:24	Warning: 	Moved Permanently for https://michters.com/?p=3524&lang=ja
+11:26:24	Warning: 	File has moved from https://michters.com/?p=3524&lang=ja to https://michters.com/celebration-sour-mash-2013?lang=ja
+11:27:52	Error: 	"Not Found" (404) at link https://michters.com/category/news-zh-hant/?lang=zh-hant/feed/ (from https://michters.com/category/news-zh-hant/?lang=zh-hant)
+11:28:01	Error: 	"Not Found" (404) at link https://michters.com/category/michters-moments-zh-hant/?lang=zh-hant/feed/ (from https://michters.com/category/michters-moments-zh-hant/?lang=zh-hant)
+11:28:03	Error: 	"Error when decompressing" (-1) at link https://michters.com/2016/04 (from https://michters.com/2016/04/?lang=zh-hant)
+11:28:13	Error: 	"Not Found" (404) at link https://michters.com/category/press-zh-hant/?lang=zh-hant/feed/ (from https://michters.com/category/press-zh-hant/?lang=zh-hant)
+11:28:50	Error: 	"Not Found" (404) at link https://michters.com/category/news-zh-hans/?lang=zh-hans/feed/ (from https://michters.com/category/news-zh-hans/?lang=zh-hans)
+11:28:50	Error: 	"Not Found" (404) at link https://michters.com/category/michters-moments-zh-hans/?lang=zh-hans/feed/ (from https://michters.com/category/michters-moments-zh-hans/?lang=zh-hans)
+11:28:50	Error: 	"Not Found" (404) at link https://michters.com/category/press-zh-hans/?lang=zh-hans/feed/ (from https://michters.com/category/press-zh-hans/?lang=zh-hans)
+11:28:50	Error: 	"Not Found" (404) at link https://michters.com/category/news-ja/?lang=ja/feed/ (from https://michters.com/category/news-ja/?lang=ja)
+11:28:50	Error: 	"Not Found" (404) at link https://michters.com/category/michters-moments-ja/?lang=ja/feed/ (from https://michters.com/category/michters-moments-ja/?lang=ja)
+11:28:51	Error: 	"Not Found" (404) at link https://michters.com/category/press-ja/?lang=ja/feed/ (from https://michters.com/category/press-ja/?lang=ja)
+11:32:36	Warning: 	Moved Permanently for https://michters.com/?p=5005
+11:32:36	Warning: 	File has moved from https://michters.com/?p=5005 to https://michters.com/my-account/
+11:33:12	Warning: 	Moved Permanently for https://michters.com/category/news/page/1/
+11:33:12	Warning: 	File has moved from https://michters.com/category/news/page/1/ to https://michters.com/category/news/
+11:33:13	Warning: 	Moved Permanently for https://michters.com/?p=5556
+11:33:13	Warning: 	File has moved from https://michters.com/?p=5556 to https://michters.com/interview-michters-distillerys-joseph-j-magliocco/
+11:33:13	Warning: 	Moved Permanently for https://michters.com/?p=3996
+11:33:13	Warning: 	File has moved from https://michters.com/?p=3996 to https://michters.com/2016-michters-10yr-rye-mild-mellow-and-relaxing/
+11:33:13	Warning: 	Moved Permanently for https://michters.com/?p=3864
+11:33:13	Warning: 	File has moved from https://michters.com/?p=3864 to https://michters.com/a-whiskey-pairing-cheat-sheet/
+11:33:13	Warning: 	Moved Permanently for https://michters.com/?p=3944
+11:33:13	Warning: 	File has moved from https://michters.com/?p=3944 to https://michters.com/whiskey-review-michters-10-year-old-single-barrel-bourbon/
+11:33:13	Warning: 	Moved Permanently for https://michters.com/?p=3697
+11:33:13	Warning: 	File has moved from https://michters.com/?p=3697 to https://michters.com/michters-distillery-visit-louisville-kentucky/
+11:33:13	Warning: 	Moved Permanently for https://michters.com/?p=3884
+11:33:13	Warning: 	File has moved from https://michters.com/?p=3884 to https://michters.com/is-this-120-bottle-of-bourbon-actually-a-bargain/
+11:33:13	Warning: 	Retry after error 500 (Domain Not Found) at link https://player.ooyala.com/iframe.js (from https://michters.com/is-this-120-bottle-of-bourbon-actually-a-bargain/)
+11:33:13	Warning: 	Moved Permanently for https://michters.com/?p=3860
+11:33:13	Warning: 	File has moved from https://michters.com/?p=3860 to https://michters.com/your-local-booze-gets-the-world-drunk/
+11:33:13	Warning: 	Moved Permanently for https://michters.com/?p=3704
+11:33:13	Warning: 	File has moved from https://michters.com/?p=3704 to https://michters.com/bourbon-beat-inside-an-up-and-coming-distillery-and-so-long-soco-video/
+11:33:13	Warning: 	Moved Permanently for https://michters.com/?p=3853
+11:33:13	Warning: 	File has moved from https://michters.com/?p=3853 to https://michters.com/in-and-around-boston-its-finally-bourbon-season/
+11:33:56	Warning: 	Moved Permanently for https://michters.com/?p=31883
+11:33:56	Warning: 	File has moved from https://michters.com/?p=31883 to https://michters.com/how-american-made-michters-became-the-worlds-most-admired-whiskey/
+11:33:56	Warning: 	Moved Permanently for https://michters.com/?p=32070
+11:33:56	Warning: 	File has moved from https://michters.com/?p=32070 to https://michters.com/the-story-of-the-great-michters-revival/
+11:33:56	Warning: 	Moved Permanently for https://michters.com/?p=32067
+11:33:56	Warning: 	File has moved from https://michters.com/?p=32067 to https://michters.com/on-the-kentucky-bourbon-trail-we-make-a-stop-at-michters-an-all-american-whiskey-distillery-thats-more-alive-than-ever/
+11:33:56	Warning: 	Moved Permanently for https://michters.com/?p=30920
+11:33:56	Warning: 	File has moved from https://michters.com/?p=30920 to https://michters.com/the-worlds-best-whiskey-2/
+11:33:56	Warning: 	Moved Permanently for https://michters.com/?p=32040
+11:33:56	Warning: 	File has moved from https://michters.com/?p=32040 to https://michters.com/michters-toasted-barrel-finish-rye-2023-review/
+11:41:30	Error: 	"Error when decompressing" (-1) at link https://michters.com/category/未分類/?lang=zh-hant (from https://michters.com/category/uncategorized/)
+11:41:30	Error: 	"Error when decompressing" (-1) at link https://michters.com/category/未分类/?lang=zh-hans (from https://michters.com/category/uncategorized/)
+11:41:30	Error: 	"Error when decompressing" (-1) at link https://michters.com/category/カテゴリーなし/?lang=ja (from https://michters.com/category/uncategorized/)
+11:41:35	Warning: 	Moved Permanently for https://michters.com/category/press/page/1/
+11:41:35	Warning: 	File has moved from https://michters.com/category/press/page/1/ to https://michters.com/category/press/
+11:41:36	Warning: 	Moved Permanently for https://michters.com/?p=16188
+11:41:36	Warning: 	File has moved from https://michters.com/?p=16188 to https://michters.com/robb-recommends-michters-10-year-bourbon-rye/
+11:41:36	Warning: 	Moved Permanently for https://michters.com/?p=16187
+11:41:36	Warning: 	File has moved from https://michters.com/?p=16187 to https://michters.com/the-worlds-most-expensive-bourbon-raised-over-200k-for-charity/
+11:41:36	Warning: 	Moved Permanently for https://michters.com/?p=9309
+11:41:36	Warning: 	File has moved from https://michters.com/?p=9309 to https://michters.com/michters-20-year-old-bourbon/
+11:41:36	Warning: 	Moved Permanently for https://michters.com/?p=5559
+11:41:36	Warning: 	File has moved from https://michters.com/?p=5559 to https://michters.com/five-minutes-with-andrea-wilson/
+11:41:36	Warning: 	Moved Permanently for https://michters.com/?p=5517
+11:41:36	Warning: 	File has moved from https://michters.com/?p=5517 to https://michters.com/meet-dan-mckee-the-new-master-distiller-at-michters/
+11:41:36	Warning: 	Moved Permanently for https://michters.com/?p=5516
+11:41:36	Warning: 	File has moved from https://michters.com/?p=5516 to https://michters.com/the-best-bottle-of-whiskey-in-each-of-the-50-states/
+11:41:36	Warning: 	Moved Permanently for https://michters.com/?p=5512
+11:41:36	Warning: 	File has moved from https://michters.com/?p=5512 to https://michters.com/how-whiskey-master-pam-heilmann-helped-break-barriers-in-kentucky/
+11:41:36	Warning: 	Moved Permanently for https://michters.com/?p=5511
+11:41:36	Warning: 	File has moved from https://michters.com/?p=5511 to https://michters.com/when-buying-bourbon-and-rye-pricier-doesnt-always-mean-better/
+11:41:36	Warning: 	Moved Permanently for https://michters.com/?p=5510
+11:41:36	Warning: 	File has moved from https://michters.com/?p=5510 to https://michters.com/drinking-whiskey-with-dollar-bill-from-showtimes-billions-kelly-aucoin/
+11:42:01	Warning: 	Moved Permanently for https://michters.com/?p=3707
+11:42:01	Warning: 	File has moved from https://michters.com/?p=3707 to https://michters.com/a-behind-the-scenes-tour-of-one-of-louisvilles-newest-distilleries/
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=3994
+11:42:02	Warning: 	File has moved from https://michters.com/?p=3994 to https://michters.com/michters-10-year-old-single-barrel-rye-whiskey/
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=4002
+11:42:02	Warning: 	File has moved from https://michters.com/?p=4002 to https://michters.com/michters-10-year-old-rye-whiskey-review-2016/
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=3998
+11:42:02	Warning: 	File has moved from https://michters.com/?p=3998 to https://michters.com/michters-10-year-old-rye-whiskey-review/
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=3968
+11:42:02	Warning: 	File has moved from https://michters.com/?p=3968 to https://michters.com/whiskey-review-michters-celebration-sour-mash/
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=3850
+11:42:02	Warning: 	File has moved from https://michters.com/?p=3850 to https://michters.com/cigar-pairing-michters-10-year-old-rye/
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=3933
+11:42:02	Warning: 	File has moved from https://michters.com/?p=3933 to https://michters.com/michters-us1-barrel-strength-rye-whiskey-review/
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=3848
+11:42:02	Warning: 	File has moved from https://michters.com/?p=3848 to https://michters.com/michters-rye-and-killer-sprocket-ipa-pass-the-match-test/
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=3936
+11:42:02	Warning: 	File has moved from https://michters.com/?p=3936 to https://michters.com/michters-barrel-strength-rye-whiskey/
+11:42:02	Warning: 	Retry after error 500 () at link https://player.ooyala.com/iframe.js (from https://michters.com/is-this-120-bottle-of-bourbon-actually-a-bargain/)
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=3954
+11:42:02	Warning: 	File has moved from https://michters.com/?p=3954 to https://michters.com/review-michters-single-barrel-bourbon-20-years-old-2015/
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=3961
+11:42:02	Warning: 	File has moved from https://michters.com/?p=3961 to https://michters.com/michters-25-year-bourbon/
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=3940
+11:42:02	Warning: 	File has moved from https://michters.com/?p=3940 to https://michters.com/top-picks-for-2015/
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=4004
+11:42:02	Warning: 	File has moved from https://michters.com/?p=4004 to https://michters.com/michters-10-year-bourbon-2015/
+11:42:02	Warning: 	Moved Permanently for https://michters.com/?p=4008
+11:42:02	Warning: 	File has moved from https://michters.com/?p=4008 to https://michters.com/review-michters-single-barrel-bourbon-10-years-old-2015/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=3839
+11:42:03	Warning: 	File has moved from https://michters.com/?p=3839 to https://michters.com/the-perfect-whiskey-gift-guide-30-to-30000/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=3709
+11:42:03	Warning: 	File has moved from https://michters.com/?p=3709 to https://michters.com/michters-distillery-becomes-heritage-member-in-kentucky-distillers-association/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=4012
+11:42:03	Warning: 	File has moved from https://michters.com/?p=4012 to https://michters.com/michters-10-year-old-single-barrel-bourbon-review/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=3714
+11:42:03	Warning: 	File has moved from https://michters.com/?p=3714 to https://michters.com/whiskey-now-flowing-and-aging-at-michters-louisville-distillery/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=3919
+11:42:03	Warning: 	File has moved from https://michters.com/?p=3919 to https://michters.com/to-cheer-and-theyre-off-for-a-different-mint-julep/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=32038
+11:42:03	Warning: 	File has moved from https://michters.com/?p=32038 to https://michters.com/michters-released-a-25-year-old-bourbon-and-we-have-the-review/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=30692
+11:42:03	Warning: 	File has moved from https://michters.com/?p=30692 to https://michters.com/the-worlds-best-whiskey/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=32048
+11:42:03	Warning: 	File has moved from https://michters.com/?p=32048 to https://michters.com/behind-michters-the-worlds-most-admired-whiskey/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=32062
+11:42:03	Warning: 	File has moved from https://michters.com/?p=32062 to https://michters.com/the-worlds-best-whiskey-according-to-the-2023-drinks-international-top-50-list/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=32076
+11:42:03	Warning: 	File has moved from https://michters.com/?p=32076 to https://michters.com/for-the-first-time-an-american-whiskey-is-named-the-most-loved-in-the-world/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=32059
+11:42:03	Warning: 	File has moved from https://michters.com/?p=32059 to https://michters.com/this-years-secret-michters-has-officially-hit-shelves-heres-our-full-review/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=32069
+11:42:03	Warning: 	File has moved from https://michters.com/?p=32069 to https://michters.com/ten-must-have-whiskeys-from-the-camouflage-collection-part-ii/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=32049
+11:42:03	Warning: 	File has moved from https://michters.com/?p=32049 to https://michters.com/gold-for-michters-bourbon/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=32039
+11:42:03	Warning: 	File has moved from https://michters.com/?p=32039 to https://michters.com/in-a-highly-competitive-market-how-michters-marketing-and-small-production-got-to-be-kentuckys-new-cult-bourbon/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=29677
+11:42:03	Warning: 	File has moved from https://michters.com/?p=29677 to https://michters.com/2022-celebration-sour-mash-review/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=32064
+11:42:03	Warning: 	File has moved from https://michters.com/?p=32064 to https://michters.com/traveling-for-march-madness-where-to-eat-shop-and-go-nuts-in-6-key-cities/
+11:42:03	Warning: 	Moved Permanently for https://michters.com/?p=32037
+11:42:03	Warning: 	File has moved from https://michters.com/?p=32037 to https://michters.com/if-youre-investing-in-super-aged-whisky-expect-the-exceptional/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=32036
+11:42:04	Warning: 	File has moved from https://michters.com/?p=32036 to https://michters.com/whiskey-of-the-week-michters-celebration-sour-mash-is-the-ultimate-event-pour/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=32035
+11:42:04	Warning: 	File has moved from https://michters.com/?p=32035 to https://michters.com/michters-legendary-celebration-sour-mash-whiskey-returns-for-first-time-since-2019/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=29441
+11:42:04	Warning: 	File has moved from https://michters.com/?p=29441 to https://michters.com/these-women-distillers-are-rising-with-the-american-whiskey-boom/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=28960
+11:42:04	Warning: 	File has moved from https://michters.com/?p=28960 to https://michters.com/kentucky-bourbon-bar-honors-classic-cocktails-but-dont-slip-past-the-banana-stand/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=28532
+11:42:04	Warning: 	File has moved from https://michters.com/?p=28532 to https://michters.com/spirit-of-the-week-michters-us1-barrel-strength-rye-whiskey/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=28010
+11:42:04	Warning: 	File has moved from https://michters.com/?p=28010 to https://michters.com/a-master-of-maturation-tells-us-about-the-importance-of-wood-in-whiskey/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=27825
+11:42:04	Warning: 	File has moved from https://michters.com/?p=27825 to https://michters.com/michters-ends-an-incredible-year-with-a-final-release-of-20-year-bourbon/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=27693
+11:42:04	Warning: 	File has moved from https://michters.com/?p=27693 to https://michters.com/is-this-200-bourbon-whiskey-worth-it-we-tried-it-to-find-out/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=27691
+11:42:04	Warning: 	File has moved from https://michters.com/?p=27691 to https://michters.com/taste-test-why-this-years-stellar-michters-10-year-is-a-bourbon-worth-scouring-the-globe-for/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=27689
+11:42:04	Warning: 	File has moved from https://michters.com/?p=27689 to https://michters.com/in-the-male-world-of-whiskey-more-women-are-calling-the-shots/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=27686
+11:42:04	Warning: 	File has moved from https://michters.com/?p=27686 to https://michters.com/remembering-willie-pratt-the-late-master-distiller-emeritus-at-michters/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=5490
+11:42:04	Warning: 	File has moved from https://michters.com/?p=5490 to https://michters.com/dont-be-surprised-to-see-cocktail-bars-at-kentucky-distilleries/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=5489
+11:42:04	Warning: 	File has moved from https://michters.com/?p=5489 to https://michters.com/10-best-bourbon-whiskey-brands-to-drink-right-now/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=5410
+11:42:04	Warning: 	File has moved from https://michters.com/?p=5410 to https://michters.com/left-for-dead-the-comeback-story-of-michters-whiskey/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=5409
+11:42:04	Warning: 	File has moved from https://michters.com/?p=5409 to https://michters.com/louisvilles-distillery-boom-continues-with-michters-opening/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=5408
+11:42:04	Warning: 	File has moved from https://michters.com/?p=5408 to https://michters.com/michters-fort-nelson-distillery-has-come-to-life-in-louisville/
+11:42:04	Warning: 	Moved Permanently for https://michters.com/?p=5407
+11:42:04	Warning: 	File has moved from https://michters.com/?p=5407 to https://michters.com/michters-in-expansion-mode-with-new-louisville-distillery/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=5406
+11:42:05	Warning: 	File has moved from https://michters.com/?p=5406 to https://michters.com/michters-fort-nelson-distillery/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=5383
+11:42:05	Warning: 	File has moved from https://michters.com/?p=5383 to https://michters.com/long-wait-for-michters-ending-with-new-kentucky-distillery/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=5382
+11:42:05	Warning: 	File has moved from https://michters.com/?p=5382 to https://michters.com/best-new-american-whiskeys/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=5380
+11:42:05	Warning: 	File has moved from https://michters.com/?p=5380 to https://michters.com/michters-distillery-announces-opening-date-for-whiskey-row-fort-nelson-distillery/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=5379
+11:42:05	Warning: 	File has moved from https://michters.com/?p=5379 to https://michters.com/best-wines-and-spirits-for-winter-weather/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=5259
+11:42:05	Warning: 	File has moved from https://michters.com/?p=5259 to https://michters.com/21-best-new-booze-bottles-2018/
+11:42:05	Error: 	"Not Found" (404) at link https://michters.com/food-drink/collections/whiskey-cocktails-for-purists-w472644 (from https://michters.com/21-best-new-booze-bottles-2018/)
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=5258
+11:42:05	Warning: 	File has moved from https://michters.com/?p=5258 to https://michters.com/quartet-of-women-chemical-engineers/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=5256
+11:42:05	Warning: 	File has moved from https://michters.com/?p=5256 to https://michters.com/whiskey-gift-guide-25-best-bottles/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=5000
+11:42:05	Warning: 	File has moved from https://michters.com/?p=5000 to https://michters.com/tasting-notes-toasted-barrel-finish-bourbon-2018/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=4987
+11:42:05	Warning: 	File has moved from https://michters.com/?p=4987 to https://michters.com/the-whiskey-rebels-how-michters-revolutionized-american-rye-and-bourbon/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=4986
+11:42:05	Warning: 	File has moved from https://michters.com/?p=4986 to https://michters.com/get-to-know-andrea-wilson-michters/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=4985
+11:42:05	Warning: 	File has moved from https://michters.com/?p=4985 to https://michters.com/flaviar-awards-2018/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=4966
+11:42:05	Warning: 	File has moved from https://michters.com/?p=4966 to https://michters.com/summer-spirits-noteworthy-bourbons-and-ryes-to-consider-this-season/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=4963
+11:42:05	Warning: 	File has moved from https://michters.com/?p=4963 to https://michters.com/two-and-a-half-great-bourbons-you-should-try-this-season/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=4961
+11:42:05	Warning: 	File has moved from https://michters.com/?p=4961 to https://michters.com/michters-us-1-toasted-barrel-finish-rye-whiskey-review/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=4877
+11:42:05	Warning: 	File has moved from https://michters.com/?p=4877 to https://michters.com/rosemarys-study-of-michters-rye-whiskeys/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=4873
+11:42:05	Warning: 	File has moved from https://michters.com/?p=4873 to https://michters.com/michters-25-oldest-rarest-spirits/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=4881
+11:42:05	Warning: 	File has moved from https://michters.com/?p=4881 to https://michters.com/top-picks-2017/
+11:42:05	Warning: 	Moved Permanently for https://michters.com/?p=4846
+11:42:05	Warning: 	File has moved from https://michters.com/?p=4846 to https://michters.com/michters-25-year-old-bourbon-review/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4848
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4848 to https://michters.com/michters-releases-its-first-25-year-old-bourbon-since-the-george-w-bush-administration/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4840
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4840 to https://michters.com/bourbon-producers-consider-the-pros-and-cons-of-non-gmo-corn/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4819
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4819 to https://michters.com/whiskey-of-the-week-michters-us1-toasted-barrel-finished-rye-is-a-double-barreled-affair/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4815
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4815 to https://michters.com/tasting-notes-michters-barrel-strength-toasted-barrel-finish-rye/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4806
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4806 to https://michters.com/pam-heilmann-inheriting-americas-oldest-whiskey-legacy/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4788
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4788 to https://michters.com/the-art-science-and-business-of-distilling-with-michters/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4785
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4785 to https://michters.com/bourbon-women-kentucky-distillers-association-salute-ground-breaking-leader/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4774
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4774 to https://michters.com/michters-master-distiller-of-whiskies-is-mistress-of-her-craft/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4803
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4803 to https://michters.com/sydneys-kittyhawk-unveil-australias-highest-quality-old-fashioned/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4773
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4773 to https://michters.com/kentuckys-finest-8-of-the-best-bourbons-you-can-only-find-in-the-bluegrass-state/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4748
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4748 to https://michters.com/5-classic-bourbons-you-should-never-forget/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4683
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4683 to https://michters.com/the-50-best-whiskeys-in-the-world/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4666
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4666 to https://michters.com/editors-choice-15-bottles-of-booze-that-make-great-gifts/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4623
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4623 to https://michters.com/the-best-cask-strength-whiskeys/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4614
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4614 to https://michters.com/bourbon-review-michters-10-year-old-single-barrel/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4612
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4612 to https://michters.com/the-much-hyped-michters-10-year-rye-whiskey-is-that-good/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4573
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4573 to https://michters.com/the-25-most-important-bourbons-ever-made/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4555
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4555 to https://michters.com/bourbon-back-in-business/
+11:42:06	Warning: 	Moved Permanently for https://michters.com/?p=4564
+11:42:06	Warning: 	File has moved from https://michters.com/?p=4564 to https://michters.com/7-single-barrel-ryes-you-need-to-try/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=4559
+11:42:07	Warning: 	File has moved from https://michters.com/?p=4559 to https://michters.com/kentuckys-newest-bourbon-barons/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=4601
+11:42:07	Warning: 	File has moved from https://michters.com/?p=4601 to https://michters.com/travel-series-louisville-ky-michters-distillery/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=4611
+11:42:07	Warning: 	File has moved from https://michters.com/?p=4611 to https://michters.com/kentuckys-bourbon-boom/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=4619
+11:42:07	Warning: 	File has moved from https://michters.com/?p=4619 to https://michters.com/whiskey-review-michters-10-year-single-barrel-kentucky-straight-rye-whiskey-2017-release/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=4621
+11:42:07	Warning: 	File has moved from https://michters.com/?p=4621 to https://michters.com/the-drinks-are-on-me-maybe-next-time/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=4638
+11:42:07	Warning: 	File has moved from https://michters.com/?p=4638 to https://michters.com/the-most-expensive-american-whiskey-gets-an-upgrade/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=4695
+11:42:07	Warning: 	File has moved from https://michters.com/?p=4695 to https://michters.com/what-a-5000-bottle-of-whiskey-tastes-like/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=4640
+11:42:07	Warning: 	File has moved from https://michters.com/?p=4640 to https://michters.com/the-12-best-booze-gifts-to-give-this-christmas/
+11:42:07	Error: 	"Not Found" (404) at link https://michters.com/story/when-it-comes-to-smoky-flavor-this-whisky-goes-to-11-2016-06-10 (from https://michters.com/the-12-best-booze-gifts-to-give-this-christmas/)
+11:42:07	Error: 	"Not Found" (404) at link https://michters.com/story/is-this-kentuckys-best-bourbon-2016-05-06 (from https://michters.com/the-12-best-booze-gifts-to-give-this-christmas/)
+11:42:07	Error: 	"Not Found" (404) at link https://michters.com/investing/stock/sam?mod=MW_story_quote (from https://michters.com/the-12-best-booze-gifts-to-give-this-christmas/)
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=4654
+11:42:07	Warning: 	File has moved from https://michters.com/?p=4654 to https://michters.com/michters-new-master-distiller-shrugs-off-her-rare-feat-in-a-male-dominated-role/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=4696
+11:42:07	Warning: 	File has moved from https://michters.com/?p=4696 to https://michters.com/michters-special-blend-whiskey-could-fetch-5k-a-bottle/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=3921
+11:42:07	Warning: 	File has moved from https://michters.com/?p=3921 to https://michters.com/michters-barrel-strength-rye-whiskey-review-2016/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=3991
+11:42:07	Warning: 	File has moved from https://michters.com/?p=3991 to https://michters.com/michters-10-year-rye/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=3970
+11:42:07	Warning: 	File has moved from https://michters.com/?p=3970 to https://michters.com/michters-us1-toasted-barrel-finish-bourbon/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=3965
+11:42:07	Warning: 	File has moved from https://michters.com/?p=3965 to https://michters.com/michters-25-year-rye/
+11:42:07	Warning: 	Moved Permanently for https://michters.com/?p=3939
+11:42:07	Warning: 	File has moved from https://michters.com/?p=3939 to https://michters.com/michters-20-year-bourbon/
+11:42:08	Warning: 	Moved Permanently for https://michters.com/?p=3924
+11:42:08	Warning: 	File has moved from https://michters.com/?p=3924 to https://michters.com/michters-barrel-strength-rye/
+11:42:08	Warning: 	Moved Permanently for https://michters.com/?p=3917
+11:42:08	Warning: 	File has moved from https://michters.com/?p=3917 to https://michters.com/michters-us1-sour-mash/
+11:42:08	Warning: 	Moved Permanently for https://michters.com/?p=3905
+11:42:08	Warning: 	File has moved from https://michters.com/?p=3905 to https://michters.com/michters-us1-rye/
+11:42:08	Warning: 	Moved Permanently for https://michters.com/?p=3885
+11:42:08	Warning: 	File has moved from https://michters.com/?p=3885 to https://michters.com/michters-us1-american-whiskey/
+11:42:16	Warning: 	Moved Permanently for https://michters.com/2016/05/page/1/
+11:42:16	Warning: 	File has moved from https://michters.com/2016/05/page/1/ to https://michters.com/2016/05/
+11:42:16	Warning: 	Moved Permanently for https://michters.com/?p=3875
+11:42:16	Warning: 	File has moved from https://michters.com/?p=3875 to https://michters.com/whiskey-of-the-week-michters-10-year-old-single-barrel-straight-rye/
+11:42:16	Warning: 	Moved Permanently for https://michters.com/?p=4015
+11:42:16	Warning: 	File has moved from https://michters.com/?p=4015 to https://michters.com/2015-michters-10yr-single-barrel-bourbon-review/
+11:42:16	Warning: 	Moved Permanently for https://michters.com/?p=3835
+11:42:16	Warning: 	File has moved from https://michters.com/?p=3835 to https://michters.com/author-ann-hood-on-michters-10-year-single-barrel-bourbon/
+11:42:16	Warning: 	Moved Permanently for https://michters.com/?p=3719
+11:42:16	Warning: 	File has moved from https://michters.com/?p=3719 to https://michters.com/slideshow-michters-gets-new-still-in-shively/
+11:42:16	Warning: 	Moved Permanently for https://michters.com/?p=3721
+11:42:16	Warning: 	File has moved from https://michters.com/?p=3721 to https://michters.com/michters-distillery-up-and-running-in-shively/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3946
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3946 to https://michters.com/michters-barrel-strength-rye-2015-108-4-proof/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3892
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3892 to https://michters.com/10-essential-bottles-to-toast-bourbon-heritage-month-garden-and-gun/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3973
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3973 to https://michters.com/5-new-american-whiskeys-you-should-be-drinking-right-now/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3724
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3724 to https://michters.com/michters-barrel-a-day-distillery-comes-home-sort-of/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3987
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3987 to https://michters.com/scout-drink-tank-michters-us1-toasted-barrel-finish-bourbon/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3729
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3729 to https://michters.com/michters-distillery-visit-and-photo-gallery/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3949
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3949 to https://michters.com/for-amber-waves-of-grain-9-american-whiskeys-to-toast-independence-day/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3966
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3966 to https://michters.com/michters-us1-barrel-strength-rye/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3887
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3887 to https://michters.com/michters-small-batch-unblended-american-whiskey/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3989
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3989 to https://michters.com/my-bourbon-thoughts-michters-us1-toasted-barrel-finish-bourbon/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3772
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3772 to https://michters.com/michters-installs-new-stills-at-shively-distillery-video/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=4010
+11:42:17	Warning: 	File has moved from https://michters.com/?p=4010 to https://michters.com/michters-10-year-old-single-barrel-bourbon-barrel-no-14a26/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3775
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3775 to https://michters.com/michters-has-a-new-distiller/
+11:42:17	Warning: 	Moved Permanently for https://michters.com/?p=3777
+11:42:17	Warning: 	File has moved from https://michters.com/?p=3777 to https://michters.com/crews-stabilizing-123-year-old-fort-nelson-building/
+11:42:17	Error: 	"Error when decompressing" (-1) at link https://michters.com/category/uncategorized (from https://michters.com/category/unkategorisiert/?lang=de)
+11:42:17	Error: 	"Not Found" (404) at link https://michters.com/category/unkategorisiert/?lang=de/feed/ (from https://michters.com/category/unkategorisiert/?lang=de)
+11:42:17	Warning: 	Moved Permanently for https://michters.com/category/uncategorized/page/1/
+11:42:17	Warning: 	File has moved from https://michters.com/category/uncategorized/page/1/ to https://michters.com/category/uncategorized/
+11:42:18	Warning: 	Moved Permanently for https://michters.com/?p=3980
+11:42:18	Warning: 	File has moved from https://michters.com/?p=3980 to https://michters.com/michters-10-year-old-single-barrel-bourbon-review-2016/
+11:42:18	Warning: 	Moved Permanently for https://michters.com/?p=3930
+11:42:18	Warning: 	File has moved from https://michters.com/?p=3930 to https://michters.com/michters-10-year-single-barrel-rye-new-2016-release/
+11:42:18	Warning: 	Moved Permanently for https://michters.com/?p=3926
+11:42:18	Warning: 	File has moved from https://michters.com/?p=3926 to https://michters.com/michters-barrel-strength-rye-review/
+11:42:18	Warning: 	Moved Permanently for https://michters.com/?p=3992
+11:42:18	Warning: 	File has moved from https://michters.com/?p=3992 to https://michters.com/weekend-sip-a-10-year-bourbon-for-derby-day/
+11:42:18	Warning: 	Moved Permanently for https://michters.com/?p=3881
+11:42:18	Warning: 	File has moved from https://michters.com/?p=3881 to https://michters.com/is-this-kentuckys-best-bourbon/
+11:42:18	Warning: 	Moved Permanently for https://michters.com/?p=3879
+11:42:18	Warning: 	File has moved from https://michters.com/?p=3879 to https://michters.com/what-to-stock-your-bar-cart-with-this-spring/
+11:42:19	Warning: 	Moved Permanently for https://michters.com/?p=3907
+11:42:19	Warning: 	File has moved from https://michters.com/?p=3907 to https://michters.com/6-delicious-kentucky-spirits-to-toast-the-derby/
+11:42:19	Error: 	"" (500) after 2 retries at link https://player.ooyala.com/iframe.js (from https://michters.com/is-this-120-bottle-of-bourbon-actually-a-bargain/)
+11:42:19	Warning: 	Moved Permanently for https://michters.com/?p=3815
+11:42:19	Warning: 	File has moved from https://michters.com/?p=3815 to https://michters.com/michters-rides-the-wave/
+11:42:19	Warning: 	Moved Permanently for https://michters.com/?p=3693
+11:42:19	Warning: 	File has moved from https://michters.com/?p=3693 to https://michters.com/michters-distillery-strives-for-stylistically-unique-whiskies/
+
+HTTrack Website Copier/3.49-2 mirror complete in 38 minutes 35 seconds : 2855 links scanned, 2472 files written (457478729 bytes overall) [244264210 bytes received at 105513 bytes/sec], 244793672 bytes transferred using HTTP compression in 2042 files, ratio 9%, 42.5 requests per connection
+(104 errors, 555 warnings, 0 messages)

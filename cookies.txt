@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+michters.com	TRUE	/	FALSE	1999999999	PHPSESSID	o7pk23fenpirpt8v5uffuh1f5f
+michters.com	TRUE	/	FALSE	1999999999	mailchimp_landing_site	https%3A%2F%2Fmichters.com%2Fxmlrpc.php%3Frsd
+michters.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+michters.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+michters.com	TRUE	/	FALSE	1999999999	_icl_current_language	en
+
